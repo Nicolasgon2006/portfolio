@@ -3,12 +3,11 @@
 </div>
 
 # Portfolio Página Web
-- Desarrollado en HTML y CSS.
+- Página web básica para mi perfil.
 
 # Sobre
-Este bot ha sido desarrollado con NODE.js y Visual Studio Code.
+- Esta web ha sido desarrollada en HTML y CSS.
 
 # Referencias
-
 - [Documentación HTML Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Documentación CSS Mozilla (https://www.npmjs.com/package/discord.js](https://developer.mozilla.org/es/docs/Web/css)
