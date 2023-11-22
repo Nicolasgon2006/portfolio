@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://rolandocaldas.com/wp-content/uploads/2013/10/css3-html5-e1383236383597.png" width="546" alt="discord.js" /></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://rolandocaldas.com/wp-content/uploads/2013/10/css3-html5-e1383236383597.png" width="200" alt="discord.js" /></a>
 </div>
 
 # Portfolio Página Web
