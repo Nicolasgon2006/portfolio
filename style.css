@@ -124,7 +124,7 @@ header {
 }
 
 .social-icons {
-    position: absolute;
+    position: relative;
     bottom: 50px;
 }
 
@@ -137,7 +137,7 @@ header {
     margin-right: 22px;
     text-align: center;
     line-height: 35px;
-    border: 1px solid #fff;
+    border: 2px solid #ffffff;
     outline: 2px solid #18b7f7;
     transition: .3s;
 }
