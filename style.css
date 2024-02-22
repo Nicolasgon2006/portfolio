@@ -96,10 +96,10 @@ header {
 }
 
 .btn-group a {
-    color: #fff;
+    color: #18b7f7;
     text-decoration: none;
     padding: 10px 40px;
-    background: #18b7f7;
+    background: #00000000;
     border-radius: 10px;
     border: 2px solid #18b7f7;
     font-weight: 500;
@@ -108,8 +108,8 @@ header {
 
 
 .btn-group a:hover {
-    color: #18b7f7;
-    background: transparent;
+    color: #fff;
+    background: #18b7f7;
 }
 
 
