@@ -96,25 +96,35 @@ header {
 }
 
 .btn-group a {
-    color: #18b7f7;
+    color: #fff;
     text-decoration: none;
     padding: 10px 40px;
-    background: #00000000;
+    background: #18b7f7;
     border-radius: 10px;
     border: 2px solid #18b7f7;
     font-weight: 500;
     transition: .3s;
 }
 
+.btn-group a:hover:nth-child(1) {
+    color: #18b7f7;
+    background: transparent;
+}
 
-.btn-group a:hover {
+.btn-group a:nth-child(2) {
+    color: #18b7f7;
+    background: transparent;
+    margin-left: 30px;
+    padding: 10px 30px;
+}
+
+.btn-group a:hover:nth-child(2) {
     color: #fff;
     background: #18b7f7;
 }
 
-
 .social-icons {
-    position: relative;
+    position: absolute;
     bottom: 50px;
 }
 
@@ -127,7 +137,7 @@ header {
     margin-right: 22px;
     text-align: center;
     line-height: 35px;
-    border: 2px solid #ffffff;
+    border: 1px solid #fff;
     outline: 2px solid #18b7f7;
     transition: .3s;
 }
