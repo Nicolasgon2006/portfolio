@@ -106,22 +106,12 @@ header {
     transition: .3s;
 }
 
-.btn-group a:hover:nth-child(1) {
-    color: #fff;
-    background: #18b7f7;
-}
 
-.btn-group a:nth-child(2) {
+.btn-group a:hover {
     color: #18b7f7;
     background: transparent;
-    margin-left: 30px;
-    padding: 10px 30px;
 }
 
-.btn-group a:hover:nth-child(2) {
-    color: #fff;
-    background: #18b7f7;
-}
 
 .social-icons {
     position: relative;
