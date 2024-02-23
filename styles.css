@@ -107,8 +107,8 @@ header {
 }
 
 .btn-group a:hover {
-    color: #18b7f7;
-    background: transparent;
+    color: #ffffff;
+    background: #18b7f7;
 }
 
 .btn-group a:nth-child(2) {
