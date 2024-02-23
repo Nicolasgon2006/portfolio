@@ -96,32 +96,26 @@ header {
 }
 
 .btn-group a {
-    color: #fff;
+    color: #18b7f7;
     text-decoration: none;
     padding: 10px 40px;
-    background: #18b7f7;
+    background: transparent;
     border-radius: 10px;
     border: 2px solid #18b7f7;
     font-weight: 500;
     transition: .3s;
 }
 
-.btn-group a:hover:nth-child(1) {
+.btn-group a:hover {
     color: #18b7f7;
     background: transparent;
 }
 
 .btn-group a:nth-child(2) {
-    color: #18b7f7;
-    background: transparent;
     margin-left: 30px;
     padding: 10px 30px;
 }
 
-.btn-group a:hover:nth-child(2) {
-    color: #fff;
-    background: #18b7f7;
-}
 
 .social-icons {
     position: absolute;
