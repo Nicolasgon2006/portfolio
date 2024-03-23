@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    background: url('fondo.jpg');
+    
 }
 
 header {
@@ -18,6 +18,10 @@ header {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+}
+
+body {
+    background: url('fondo.jpg');
 }
 
 .logo {
