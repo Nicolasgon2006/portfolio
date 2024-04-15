@@ -6,4 +6,4 @@
 
 # Referencias
 - [Documentación HTML Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
-- [Documentación CSS Mozilla](https://developer.mozilla.org/es/docs/Web/css)
+- [Documentación CSS Mozilla](https://developer.mozilla.org/es/docs/Web/CSS)
